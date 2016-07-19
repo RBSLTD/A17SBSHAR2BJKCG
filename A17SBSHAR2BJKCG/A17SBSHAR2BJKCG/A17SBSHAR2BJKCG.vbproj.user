@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>C:\Users\Thomas Rees\Desktop\Git\|publish\</PublishUrlHistory>
-    <InstallUrlHistory>https://github.com/RBSLTD/A17SBSHAR2BJKCG/</InstallUrlHistory>
+    <InstallUrlHistory>https://github.com/RBSLTD/A17SBSHAR2BJKCG/Versions/|https://github.com/RBSLTD/A17SBSHAR2BJKCG/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
