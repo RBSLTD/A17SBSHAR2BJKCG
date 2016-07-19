@@ -1,0 +1,11 @@
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\bin\Debug\A17SBSHAR2BJKCG.exe.config
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.Resources.resources
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.vbproj.GenerateResource.Cache
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.exe
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.xml
+C:\Users\Thomas Rees\AppData\Local\Temporary Projects\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.pdb
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\bin\Debug\A17SBSHAR2BJKCG.exe.config
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.exe
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.xml
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.pdb
