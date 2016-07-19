@@ -20,3 +20,4 @@ C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SB
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.vbproj.GenerateResource.Cache
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.exe.manifest
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.application
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.Register.resources

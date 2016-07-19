@@ -1,20 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="A17SBSHAR2BJKCG.application" version="0.0.1.5" publicKeyToken="0000000000000000" language="en-GB" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <assemblyIdentity name="A17SBSHAR2BJKCG.application" version="0.0.2.0" publicKeyToken="0000000000000000" language="en-GB" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Thomas Rees" asmv2:product="A17SBSHAR2BJKCG" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" mapFileExtensions="true" co.v1:createDesktopShortcut="true" />
+  <deployment install="true" mapFileExtensions="true" co.v1:createDesktopShortcut="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="https://github.com/RBSLTD/A17SBSHAR2BJKCG/Versions/A17SBSHAR2BJKCG.application" />
+  </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="A17SBSHAR2BJKCG.exe.manifest" size="3498">
-      <assemblyIdentity name="A17SBSHAR2BJKCG.exe" version="0.0.1.5" publicKeyToken="0000000000000000" language="en-GB" processorArchitecture="msil" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\A17SBSHAR2BJKCG_0_0_2_0\A17SBSHAR2BJKCG.exe.manifest" size="3498">
+      <assemblyIdentity name="A17SBSHAR2BJKCG.exe" version="0.0.2.0" publicKeyToken="0000000000000000" language="en-GB" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>M4uFFlS2B6ZcrLSLZVW2Cx3yGPKYgtn4SXQA5bNm6As=</dsig:DigestValue>
+        <dsig:DigestValue>d1GLzqOKy6KwdwfyMokLwu+4kJKC48EVO93E0XMdHYU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

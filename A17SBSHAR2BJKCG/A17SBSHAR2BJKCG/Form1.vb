@@ -6,12 +6,28 @@ Public Class SignIn
     Private Sub SignIn_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim dim1 As String = "C:\Users\Public\RBSLTD"
         Dim dim2 As String = "C:\Users\Public\RBSLTD\logins"
+        Dim dim3 As String = "C:\Users\Public\RBSLTD\logins\admin"
+        Dim dim4 As String = "C:\Users\Public\RBSLTD\logins\admin\username.txt"
+        Dim dim5 As String = "C:\Users\Public\RBSLTD\logins\admin\password.txt"
+        Dim dim6 As String = "C:\Users\Public\RBSLTD\logins\admin\userlevel.txt"
         If (Not System.IO.Directory.Exists(dim1)) Then
             System.IO.Directory.CreateDirectory(dim1)
             If (Not System.IO.Directory.Exists(dim2)) Then
                 System.IO.Directory.CreateDirectory(dim2)
             End If
         End If
+        System.IO.Directory.CreateDirectory(dim3)
+        System.IO.File.CreateText(dim4).Close()
+
+        My.Computer.FileSystem.WriteAllText(dim4,
+"admin", True)
+
+        System.IO.File.CreateText(dim5).Close()
+        My.Computer.FileSystem.WriteAllText(dim5,
+"Admin", True)
+        System.IO.File.CreateText(dim6).Close()
+        My.Computer.FileSystem.WriteAllText(dim6,
+"Admin", True)
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -41,5 +57,9 @@ Public Class SignIn
                 MsgBox("Invalid username or password")
             End If
         End If
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Register.Show()
     End Sub
 End Class
