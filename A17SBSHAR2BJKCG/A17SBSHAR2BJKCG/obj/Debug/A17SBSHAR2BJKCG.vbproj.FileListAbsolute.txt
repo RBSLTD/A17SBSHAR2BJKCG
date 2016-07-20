@@ -14,10 +14,12 @@ C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\bin\Debug\A17SB
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\bin\Debug\A17SBSHAR2BJKCG.exe
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\bin\Debug\A17SBSHAR2BJKCG.pdb
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\bin\Debug\A17SBSHAR2BJKCG.xml
-C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.vbprojResolveAssemblyReference.cache
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.SignIn.resources
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.Resources.resources
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.vbproj.GenerateResource.Cache
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.exe.manifest
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.application
 C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.Register.resources
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.User.resources
+C:\Users\Thomas Rees\Desktop\Git\A17SBSHAR2BJKCG\A17SBSHAR2BJKCG\obj\Debug\A17SBSHAR2BJKCG.newcustomeruser.resources
