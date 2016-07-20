@@ -37,6 +37,8 @@ Public Class SignIn
         Dim pathpass As String
         Dim nameread As String
         Dim passread As String
+        Dim userlevel As String
+        Dim levelread As String
         name = TextBox1.Text
         pass = TextBox2.Text
 
@@ -45,11 +47,27 @@ Public Class SignIn
         Else
             pathname = "C:\Users\Public\RBSLTD\logins\" & name & "\username.txt"
             pathpass = "C:\Users\Public\RBSLTD\logins\" & name & "\password.txt"
+            userlevel = "C:\Users\Public\RBSLTD\logins\" & name & "\userlevel.txt"
             nameread = My.Computer.FileSystem.ReadAllText(pathname)
             passread = My.Computer.FileSystem.ReadAllText(pathpass)
+            levelread = My.Computer.FileSystem.ReadAllText(userlevel)
             If name = nameread Then
                 If pass = passread Then
-                    MsgBox("Successfully logged in")
+                    If levelread = "User" Then
+                        User.Show()
+                        Me.Hide()
+                    Else
+                        If levelread = "Moderator" Then
+                            Moderator.Show()
+                            Me.Hide()
+                        Else
+                        End If
+                        If levelread = "Admin" Then
+                            Admin.Show()
+                            Me.Hide()
+                        Else
+                        End If
+                    End If
                 Else
                     MsgBox("Invalid username or password")
                 End If
